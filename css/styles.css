@@ -82,3 +82,27 @@ main #instructions li {
     font-size: 20px;
     padding: 5px;
 }
+
+#nutrition {
+    font-family: "DM Sans", sans-serif;
+    font-size: 20px;
+}
+
+.table_right {
+    color: #824431;
+}
+
+main table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+main table tr {
+    border-bottom: 1px solid black;
+}
+
+main table tr td {
+    padding: 10px;
+    font-size: 20px;
+}
