@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Display:ital@0;1&display=swap');
+
+* {
+    box-sizing: border-box;
+    
+}
+body {
+    background-color: #F3E5D8;
+}
+main {
+    max-width: 1000px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+main img {
+    width: 900px;
+    margin: 50px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+#introduction {
+    margin: 0 50px;
+}
+
+#introduction h1 {
+    font-size: 50px;
+    font-family: "DM Serif Display", serif;
+}
+
+#introduction p {
+    font-size: 20px;
+    font-family: "DM Sans", sans-serif;
+}
