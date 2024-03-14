@@ -11,23 +11,21 @@ body {
 main {
     max-width: 1000px;
     background-color: white;
-    margin: 0 auto;
-}
-
-main img {
-    width: 900px;
-    margin: 50px;
-    align-items: center;
+    margin: 20px auto;
+    padding: 25px;
     border-radius: 10px;
 }
 
-#introduction {
-    margin: 0 50px;
+#image img {
+    width: 950px;
+    border-radius: 10px;
 }
 
+
 #introduction h1 {
-    font-size: 50px;
+    font-size: 40px;
     font-family: "DM Serif Display", serif;
+    color: #824431;
 }
 
 #introduction p {
@@ -37,20 +35,40 @@ main img {
 
 #preparation {
     background-color: #FFF7FC;
-    margin: 20px 50px;
+    margin: 30px 0;
     border-radius: 10px;
 }
 
 #preparation h2 {
-    padding-top: 20px;
-    padding-left: 20px;
-    font-family: "DM Serif Display", serif;
-    color: #6c0044;
 
+    font-family: "DM Serif Display", serif;
+    color: #6B193B;
+    margin-left: 20px;
+
+}
+
+#preparation ul {
+    margin: 0 20px;
 }
 
 #preparation ul li {
     font-family: "DM Sans", sans-serif;
-    padding: 5px 20px;
+    padding: 5px;
     font-size: 20px;
+}
+
+main h3 {
+    color: #824431;
+    font-size: 30px;
+    font-family: "DM Serif Display", serif;
+}
+
+main #ingredients {
+    margin: 0 20px;
+}
+
+main #ingredients li {
+    font-family: "DM Sans", sans-serif;
+    font-size: 20px;
+    padding: 5px;
 }
