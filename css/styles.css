@@ -64,10 +64,20 @@ main h3 {
 }
 
 main #ingredients {
-    margin: 0 20px;
+    margin: 15px 20px;
 }
 
 main #ingredients li {
+    font-family: "DM Sans", sans-serif;
+    font-size: 20px;
+    padding: 5px;
+}
+
+main #instructions {
+    margin: 0 20px;
+}
+
+main #instructions li {
     font-family: "DM Sans", sans-serif;
     font-size: 20px;
     padding: 5px;
