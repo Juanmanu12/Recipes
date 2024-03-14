@@ -34,3 +34,23 @@ main img {
     font-size: 20px;
     font-family: "DM Sans", sans-serif;
 }
+
+#preparation {
+    background-color: #FFF7FC;
+    margin: 20px 50px;
+    border-radius: 10px;
+}
+
+#preparation h2 {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: "DM Serif Display", serif;
+    color: #6c0044;
+
+}
+
+#preparation ul li {
+    font-family: "DM Sans", sans-serif;
+    padding: 5px 20px;
+    font-size: 20px;
+}
